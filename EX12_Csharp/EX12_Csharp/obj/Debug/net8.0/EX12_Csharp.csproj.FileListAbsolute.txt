@@ -1,0 +1,14 @@
+E:\Study\Code with VisualStudio\EX12_Csharp\EX12_Csharp\bin\Debug\net8.0\EX12_Csharp.exe
+E:\Study\Code with VisualStudio\EX12_Csharp\EX12_Csharp\bin\Debug\net8.0\EX12_Csharp.deps.json
+E:\Study\Code with VisualStudio\EX12_Csharp\EX12_Csharp\bin\Debug\net8.0\EX12_Csharp.runtimeconfig.json
+E:\Study\Code with VisualStudio\EX12_Csharp\EX12_Csharp\bin\Debug\net8.0\EX12_Csharp.dll
+E:\Study\Code with VisualStudio\EX12_Csharp\EX12_Csharp\bin\Debug\net8.0\EX12_Csharp.pdb
+E:\Study\Code with VisualStudio\EX12_Csharp\EX12_Csharp\obj\Debug\net8.0\EX12_Csharp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Study\Code with VisualStudio\EX12_Csharp\EX12_Csharp\obj\Debug\net8.0\EX12_Csharp.AssemblyInfoInputs.cache
+E:\Study\Code with VisualStudio\EX12_Csharp\EX12_Csharp\obj\Debug\net8.0\EX12_Csharp.AssemblyInfo.cs
+E:\Study\Code with VisualStudio\EX12_Csharp\EX12_Csharp\obj\Debug\net8.0\EX12_Csharp.csproj.CoreCompileInputs.cache
+E:\Study\Code with VisualStudio\EX12_Csharp\EX12_Csharp\obj\Debug\net8.0\EX12_Csharp.dll
+E:\Study\Code with VisualStudio\EX12_Csharp\EX12_Csharp\obj\Debug\net8.0\refint\EX12_Csharp.dll
+E:\Study\Code with VisualStudio\EX12_Csharp\EX12_Csharp\obj\Debug\net8.0\EX12_Csharp.pdb
+E:\Study\Code with VisualStudio\EX12_Csharp\EX12_Csharp\obj\Debug\net8.0\EX12_Csharp.genruntimeconfig.cache
+E:\Study\Code with VisualStudio\EX12_Csharp\EX12_Csharp\obj\Debug\net8.0\ref\EX12_Csharp.dll
